@@ -1,0 +1,15 @@
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\bin\Debug\CMPP248lab2.exe.config
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\bin\Debug\MMABooks.mdf
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\bin\Debug\MMABooks_log.ldf
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\bin\Debug\CMPP248lab2.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\bin\Debug\CMPP248lab2.pdb
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\obj\Debug\CMPP248lab2.csprojResolveAssemblyReference.cache
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\obj\Debug\CMPP248lab2.frmAddModifyProduct.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\obj\Debug\CMPP248lab2.frmProductMaintenance.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\obj\Debug\CMPP248lab2.Properties.Resources.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\obj\Debug\CMPP248lab2.csproj.GenerateResource.Cache
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\obj\Debug\CMPP248lab2.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2\CMPP248lab2\obj\Debug\CMPP248lab2.pdb
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2_DaryaO\CMPP248lab2\bin\Debug\CMPP248lab2.exe.config
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2_DaryaO\CMPP248lab2\obj\Debug\CMPP248lab2.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248lab2_DaryaO\CMPP248lab2\obj\Debug\CMPP248lab2.pdb

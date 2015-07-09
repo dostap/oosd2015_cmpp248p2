@@ -1,0 +1,13 @@
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\bin\Debug\CMPP248Part2Lab3.exe.config
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\obj\Debug\CMPP248Part2Lab3.csprojResolveAssemblyReference.cache
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\obj\Debug\CMPP248Part2Lab3.frmAdd.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\obj\Debug\CMPP248Part2Lab3.frmMain.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\obj\Debug\CMPP248Part2Lab3.Properties.Resources.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\obj\Debug\CMPP248Part2Lab3.csproj.GenerateResource.Cache
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\bin\Debug\CMPP248Part2Lab3.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\bin\Debug\CMPP248Part2Lab3.pdb
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\obj\Debug\CMPP248Part2Lab3.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3\CMPP248Part2Lab3\obj\Debug\CMPP248Part2Lab3.pdb
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3_DaryaO\CMPP248Part2Lab3\bin\Debug\CMPP248Part2Lab3.exe.config
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3_DaryaO\CMPP248Part2Lab3\obj\Debug\CMPP248Part2Lab3.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\CMPP248Part2Lab3_DaryaO\CMPP248Part2Lab3\obj\Debug\CMPP248Part2Lab3.pdb

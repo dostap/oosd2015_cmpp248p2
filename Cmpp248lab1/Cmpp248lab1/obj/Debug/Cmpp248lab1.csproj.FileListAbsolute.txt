@@ -1,0 +1,17 @@
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\bin\Debug\Cmpp248lab1.exe.config
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\bin\Debug\northwnd.mdf
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\bin\Debug\northwnd_log.ldf
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\bin\Debug\Cmpp248lab1.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\bin\Debug\Cmpp248lab1.pdb
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\obj\Debug\Cmpp248lab1.csprojResolveAssemblyReference.cache
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\obj\Debug\Cmpp248lab1.Form1.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\obj\Debug\Cmpp248lab1.Properties.Resources.resources
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\obj\Debug\Cmpp248lab1.csproj.GenerateResource.Cache
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\obj\Debug\Cmpp248lab1.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1\Cmpp248lab1\obj\Debug\Cmpp248lab1.pdb
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1_DaryaO\Cmpp248lab1\bin\Debug\Cmpp248lab1.exe.config
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1_DaryaO\Cmpp248lab1\obj\Debug\Cmpp248lab1.exe
+C:\Users\689508\Documents\Visual Studio 2012\Projects\Cmpp248lab1_DaryaO\Cmpp248lab1\obj\Debug\Cmpp248lab1.pdb
+C:\Users\689508\Documents\GitHub\oosd2015_cmpp248p2\Cmpp248lab1\Cmpp248lab1\bin\Debug\Cmpp248lab1.exe.config
+C:\Users\689508\Documents\GitHub\oosd2015_cmpp248p2\Cmpp248lab1\Cmpp248lab1\obj\Debug\Cmpp248lab1.exe
+C:\Users\689508\Documents\GitHub\oosd2015_cmpp248p2\Cmpp248lab1\Cmpp248lab1\obj\Debug\Cmpp248lab1.pdb
